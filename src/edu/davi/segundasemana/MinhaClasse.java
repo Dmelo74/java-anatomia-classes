@@ -3,7 +3,7 @@ package edu.davi.segundasemana;
 
 public class MinhaClasse {
     public static void main(String[] args) {
-        int number1 = 2;
+        int number1 = 7;
         int number2 = 6;
 
         int resultado = somar(number1, number2);
